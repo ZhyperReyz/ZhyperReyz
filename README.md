@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Reyhan San Andreas</h1>
+<h1 align="center">Hi there 👋, I'm Reyhan</h1>
 <h3 align="center">Frontend Developer & Web Animation Enthusiast</h3>
 
 <p align="center">
@@ -89,4 +89,4 @@ I'm a self-taught frontend developer who loves building **fast, smooth, and anim
 
 <p align="center">
   <i>Always exploring new ways to make the web feel alive.</i>
-</p>
+</p>
